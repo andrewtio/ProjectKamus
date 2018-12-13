@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectKamus2</string>
+    <string name="loading">Loading</string>
+    <string name="kata">Kata</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="app_first_run">App First Run</string>
+</resources>
